@@ -1,6 +1,6 @@
-For GitLab Runner Installation follow the below commands
+# For GitLab Runner Installation follow the below commands
 
-*** Recommended to perform below commands as a ROOT user ***
+Recommended to perform below commands as a ROOT user
 ----------------------------------------------------------------------------------------------
 
 
