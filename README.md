@@ -14,7 +14,7 @@ sudo apt install gitlab-runner
 ```
 ```
 systemctl status gitlab-runner
-
+```
 For REGISTRATION_TOKEN go to Project settings -> CICD -> Runners -> Copy the token and paste in below command
 
 sudo gitlab-runner register --url https://gitlab.com/ --registration-token $REGISTRATION_TOKEN
